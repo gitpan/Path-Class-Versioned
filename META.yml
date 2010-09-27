@@ -21,11 +21,11 @@ no_index:
     - t
 requires:
   List::Util: 0
-  Moose: 1.02
+  Moose: 0.58
   MooseX::Params::Validate: 0.08
   MooseX::Types::Path::Class: 0.04
   Path::Class: 0
   overload: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.03
+version: 0.04
